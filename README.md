@@ -50,7 +50,7 @@ docker-compose down
 ```
 
 ## 引用
-https://github.com/sasakitimaru/dynamodb-migrator
+https://github.com/sasakitimaru/dynamod-local-migrator
 
 https://hub.docker.com/repository/docker/sasakitimaru/dynamodb-local/general
 
